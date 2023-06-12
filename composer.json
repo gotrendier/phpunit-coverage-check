@@ -1,0 +1,20 @@
+{
+  "name": "gotrendier/phpunit-coverage-check",
+  "description": "Check the code coverage using the clover report of phpunit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Richard Regeer",
+      "email": "rich2309@gmail.com"
+    },
+    {
+      "name": "Javier De Juan",
+      "email": "javier.dejuan@gotrendier.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "bin": ["bin/coverage-check"]
+}
